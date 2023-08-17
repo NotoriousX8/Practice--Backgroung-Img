@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  padding: 100px 0;
+  background-color: #008080;
+}
+
+h2 {
+  padding: 100px 0;
+  background-color: #00ffff;
+}
+
+.hero {
+  background: #3a4f63 url("../img/bg.png") no-repeat center/cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.promo {
+  background-image: url("../img/promo_background.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 600px;
+}
